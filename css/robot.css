@@ -12,19 +12,18 @@ a {
 
 .content {
     width: 100%;
-    height: 90vh;
+    height: 80vh;
     margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: antiquewhite;
 }
 
 .bar {
     width: 100%;
     height: 10vh;
     margin: auto;
-    background-color: lightpink;
+    background-color: whitesmoke;
     display: flex;
 }
 
@@ -34,4 +33,9 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: black;
+}
+
+.footer {
+    height: 10vh;
 }
